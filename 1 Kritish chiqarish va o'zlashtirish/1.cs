@@ -1,14 +1,16 @@
 using system;
 // Masala 1
 
-Console.Write("A = ");
-double a = double.Parse(Console.ReadLine());
-double P = 4 * a;
-Console.WriteLine("P = " + P);
+// Console.Write("A = ");
+// double a = double.Parse(Console.ReadLine());
+// double P = 4 * a;
+// Console.WriteLine("P = " + P);
    
 // Masala 2
-
-
+// Console.Write("A = ");
+// double a = double.Parse(Console.ReadLine());
+// double S = Math.Pow(a,2);
+// Console.WriteLine(S);
 
 // Masala 3
 
