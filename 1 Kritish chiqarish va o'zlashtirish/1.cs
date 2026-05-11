@@ -13,11 +13,23 @@ using system;
 // Console.WriteLine(S);
 
 // Masala 3
+// Console.Write("a = ");
+// double a = double.Parse(Console.ReadLine());
+// Console.Write("b = ");
+// double b = double.Parse(Console.ReadLine());
 
+// double S = a * b;
+// double P = 2 * (a + b);
 
+// Console.WriteLine(S);
 
+// Console.WriteLine(P);
 // Masala 4
-
+Console.Write("D Diametrni kiriti: ");
+double d = double.Parse(Console.ReadLine());
+const double pi = 3.14;
+double L = pi*d;
+Console.WriteLine(L);
 
 
 // Masala 5
