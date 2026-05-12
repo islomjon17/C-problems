@@ -25,14 +25,21 @@ using system;
 
 // Console.WriteLine(P);
 // Masala 4
-Console.Write("D Diametrni kiriti: ");
-double d = double.Parse(Console.ReadLine());
-const double pi = 3.14;
-double L = pi*d;
-Console.WriteLine(L);
+// Console.Write("D Diametrni kiriti: ");
+// double d = double.Parse(Console.ReadLine());
+// const double pi = 3.14;
+// double L = pi*d;
+// Console.WriteLine(L);
 
 
 // Masala 5
+
+Console.Write("a tomonni kriting: ");
+double a = double.Parse(Console.ReadLine());
+double V = Math.Pow(a,3);
+double S = 6 * Math.Pow(a,2);
+Console.WriteLine(V);
+Console.WriteLine(S);
 
 
 
