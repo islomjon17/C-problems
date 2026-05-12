@@ -34,17 +34,29 @@ using system;
 
 // Masala 5
 
-Console.Write("a tomonni kriting: ");
-double a = double.Parse(Console.ReadLine());
-double V = Math.Pow(a,3);
-double S = 6 * Math.Pow(a,2);
-Console.WriteLine(V);
-Console.WriteLine(S);
+// Console.Write("a tomonni kriting: ");
+// double a = double.Parse(Console.ReadLine());
+// double V = Math.Pow(a,3);
+// double S = 6 * Math.Pow(a,2);
+// Console.WriteLine(V);
+// Console.WriteLine(S);
 
 
 
 // Masala 6
+Console.Write("a tomonni kiriting: ");
+double a = double.Parse(Console.ReadLine());
 
+Console.Write("b tomonni kiriting: ");
+double b = double.Parse(Console.ReadLine());
+
+Console.Write("b tomonni kiriting: ");
+double c = double.Parse(Console.ReadLine());
+
+double V = a*b*c;
+double S = 2*(a*b+b*c+a*c);
+Console.WriteLine(V);
+Console.WriteLine(S);
 
 
 // Masala 7
