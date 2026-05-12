@@ -44,23 +44,28 @@ using system;
 
 
 // Masala 6
-Console.Write("a tomonni kiriting: ");
-double a = double.Parse(Console.ReadLine());
+// Console.Write("a tomonni kiriting: ");
+// double a = double.Parse(Console.ReadLine());
 
-Console.Write("b tomonni kiriting: ");
-double b = double.Parse(Console.ReadLine());
+// Console.Write("b tomonni kiriting: ");
+// double b = double.Parse(Console.ReadLine());
 
-Console.Write("b tomonni kiriting: ");
-double c = double.Parse(Console.ReadLine());
+// Console.Write("b tomonni kiriting: ");
+// double c = double.Parse(Console.ReadLine());
 
-double V = a*b*c;
-double S = 2*(a*b+b*c+a*c);
-Console.WriteLine(V);
-Console.WriteLine(S);
+// double V = a*b*c;
+// double S = 2*(a*b+b*c+a*c);
+// Console.WriteLine(V);
+// Console.WriteLine(S);
 
 
 // Masala 7
-
+// Console.Write("R ni kiriting: ");
+// double R = double.Parse(Console.ReadLine());
+// double pi = 3.14;
+// double L = 2*pi*R;
+// double S = pi * Math.Pow(R, 2);
+// Console.WriteLine($"Uzunligi (L): {L}, Yuzasi (S): {S}");
 
 
 // Masala 8
