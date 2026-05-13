@@ -101,6 +101,19 @@ using system;
 
 
 // Masala 11
+Console.Write("a sonni kiritig 0 ga teng bo'lmasin: ");
+double a = double.Parse(Console.ReadLine());
+Console.Write("a sonni kiritig 0 ga teng bo'lmasin: ");
+double b = double.Parse(Console.ReadLine());
+double yeg = a+b;
+double kopaytma = a*b;
+double module_a = Math.Abs(a);
+double module_b = Math.Abs(b);
+Console.WriteLine($"Yig'indi: {yeg}");
+Console.WriteLine($"Ko'paytma: {kopaytma}");
+Console.WriteLine($"a ning kvadrati: {module_a}");
+Console.WriteLine($"b ning kvadrati: {module_b}");
+
 
 
 // Masala 12
