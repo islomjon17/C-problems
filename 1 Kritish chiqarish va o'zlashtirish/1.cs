@@ -69,11 +69,20 @@ using system;
 
 
 // Masala 8
-
-
+// Console.Write("a sonni kiritig: ");
+// double a = double.Parse(Console.ReadLine());
+// Console.Write("b sonni kiritig: ");
+// double b = double.Parse(Console.ReadLine());
+// double ort_arf = (a+b)/2;
+// Console.WriteLine($"O'rta arifmetiki: {ort_arf}");
 
 // Masala 9
-
+// Console.Write("a sonni kiritig 0 dan katta bo'lsin: ");
+// double a = double.Parse(Console.ReadLine());
+// Console.Write("a sonni kiritig 0 dan katta bo'lsin: ");
+// double b = double.Parse(Console.ReadLine());
+// double G = Math.Sqrt(a*b);
+// Console.WriteLine(G);
 
 
 // Masala 10
