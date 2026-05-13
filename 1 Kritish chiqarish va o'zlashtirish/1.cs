@@ -86,11 +86,21 @@ using system;
 
 
 // Masala 10
-
+// Console.Write("a sonni kiritig 0 ga teng bo'lmasin: ");
+// double a = double.Parse(Console.ReadLine());
+// Console.Write("a sonni kiritig 0 ga teng bo'lmasin: ");
+// double b = double.Parse(Console.ReadLine());
+// double yeg = a+b;
+// double kopaytma = a*b;
+// double kvadrat_a = Math.Pow(a,2);
+// double kvadrat_b = Math.Pow(b,2);
+// Console.WriteLine($"Yig'indi: {yeg}");
+// Console.WriteLine($"Ko'paytma: {kopaytma}");
+// Console.WriteLine($"a ning kvadrati: {kvadrat_a}");
+// Console.WriteLine($"b ning kvadrati: {kvadrat_b}");
 
 
 // Masala 11
-
 
 
 // Masala 12
