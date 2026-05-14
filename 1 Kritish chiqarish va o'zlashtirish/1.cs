@@ -177,16 +177,29 @@ using system;
 
 
 // Masala 16
-Console.Write("1-nuqta: ");
-double A = double.Parse(Console.ReadLine());
-Console.Write("2-nuqta: ");
-double B = double.Parse(Console.ReadLine());
-double masofa1 = Math.Abs(A-B);
-Console.WriteLine("Nuqtalar orasidagi masofa: " + masofa1);
+// Console.Write("1-nuqta: ");
+// double A = double.Parse(Console.ReadLine());
+// Console.Write("2-nuqta: ");
+// double B = double.Parse(Console.ReadLine());
+// double masofa1 = Math.Abs(A-B);
+// Console.WriteLine("Nuqtalar orasidagi masofa: " + masofa1);
 
 // Masala 17
 
+// Console.Write("A nuqtani kiriting: ");
+// double A = double.Parse(Console.ReadLine());
+// Console.Write("B nuqtani kiriting: ");
+// double B = double.Parse(Console.ReadLine());
+// Console.Write("C nuqtani kiriting: ");
+// double C = double.Parse(Console.ReadLine());
 
+// double AC = C - A;
+// double BC = C - B;
+// double yigindi = AC + BC;
+
+// Console.WriteLine("AC = " + AC);
+// Console.WriteLine("BC = " + BC);
+// Console.WriteLine("Yig'indi = " + yigindi);
 
 // Masala 18
 
