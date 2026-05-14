@@ -130,20 +130,59 @@ using system;
 
 
 // Masala 13
+// Console.Write("r1 sonni kiritig 0 ga teng bo'lmasin: ");
+// double R1 = double.Parse(Console.ReadLine());
+// Console.Write("r2 sonni kiritig 0 ga teng bo'lmasin: ");
+// double R2 = double.Parse(Console.ReadLine());
+// double pi = 3.14;
 
-
-
+// double S1 =  pi*R1;
+// double S2 = pi*R2;
+// double S3 = pi*(R1-R2);
+// Console.WriteLine("S1 yuzasi: " + S1);
+// Console.WriteLine("S2 yuzasi: " + S2);
+// Console.WriteLine("Oradagi yuza (S3): " + S3);
 // Masala 14
 
+
+// Console.Write("Aylananing yuzasini (S) kiriting: ");
+// double S = double.Parse(Console.ReadLine());
+
+// double pi = 3.14;
+
+
+// double R = Math.Sqrt(S / pi);
+
+// double d = 2 * R;
+
+// Console.WriteLine("Radiusi R = " + R);
+// Console.WriteLine("Diametri d = " + d);
 
 
 // Masala 15
 
+// Console.Write("Aylananing yuzasini (S) kiriting: ");
+// double S = double.Parse(Console.ReadLine());
+
+// double pi = 3.14;
+
+
+// double R = Math.Sqrt(S / pi);
+
+// double d = 2 * R;
+
+// Console.WriteLine("Radiusi R = " + R);
+// Console.WriteLine("Diametri d = " + d);
+
 
 
 // Masala 16
-
-
+Console.Write("1-nuqta: ");
+double A = double.Parse(Console.ReadLine());
+Console.Write("2-nuqta: ");
+double B = double.Parse(Console.ReadLine());
+double masofa1 = Math.Abs(A-B);
+Console.WriteLine("Nuqtalar orasidagi masofa: " + masofa1);
 
 // Masala 17
 
