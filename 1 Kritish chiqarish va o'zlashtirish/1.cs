@@ -344,19 +344,31 @@ using system;
 // Console.WriteLine($"y ning qiymati: {y}");
 
 // Masala 27
-Console.Write("A ni kiriting: ");
-Console.Write("A ni kiriting: ");
-int A = int.Parse(Console.ReadLine());
+// Console.Write("A ni kiriting: ");
+// Console.Write("A ni kiriting: ");
+// int A = int.Parse(Console.ReadLine());
 
-int d_2 = (int)Math.Pow(A, 2);
-int d_4 = (int)Math.Pow(A, 4);
-int d_8 = (int)Math.Pow(A, 8);
+// int d_2 = (int)Math.Pow(A, 2);
+// int d_4 = (int)Math.Pow(A, 4);
+// int d_8 = (int)Math.Pow(A, 8);
 
 
-Console.WriteLine($"A^2 = {d_2}, A^4 = {d_4}, A^8 = {d_8}");
+// Console.WriteLine($"A^2 = {d_2}, A^4 = {d_4}, A^8 = {d_8}");
 
 // Masala 28
 
+// Console.Write("A ni kiriting: ");
+// Console.Write("A ni kiriting: ");
+// int A = int.Parse(Console.ReadLine());
+
+// int d_2 = (int)Math.Pow(A, 2);
+// int d_3 = (int)Math.Pow(A, 3);
+// int d_5 = (int)Math.Pow(A, 5);
+// int d_10 = (int)Math.Pow(A, 10);
+// int d_15 = (int)Math.Pow(A, 15);
+
+
+// Console.WriteLine($"A^2 = {d_2}, A^3 = {d_3}, A^5 = {d_5}, A^10 = {d_10}, A^15 = {d_15}");
 
 
 // Masala 29
