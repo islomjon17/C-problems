@@ -373,7 +373,13 @@ using system;
 
 // Masala 29
 
+Console.Write("Burchakni gradusda kiriting (0-360): ");
+double alphaGradus = double.Parse(Console.ReadLine());
 
+
+double radian = alphaGradus * Math.PI / 180;
+
+Console.WriteLine($"Radian qiymati: {radian:F4}");
 
 // Masala 30
 
