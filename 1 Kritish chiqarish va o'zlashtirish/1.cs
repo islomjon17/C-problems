@@ -293,7 +293,17 @@ using system;
 // Console.WriteLine(b);
 
 // Masala 23
+Console.Write("A = "); int A = int.Parse(Console.ReadLine());
+Console.Write("B = "); int B = int.Parse(Console.ReadLine());
+Console.Write("C = "); int C = int.Parse(Console.ReadLine());
 
+int temp = A;
+
+A = C; 
+C = B;
+B = temp; 
+
+Console.WriteLine($"\nNatija:\nA = {A}\nB = {B}\nC = {C}");
 
 
 // Masala 24
