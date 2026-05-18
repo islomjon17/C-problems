@@ -235,19 +235,62 @@ using system;
 // Console.WriteLine("P= "+P);
 // Console.WriteLine("S= "+S);
 
-// Masala 18
-
 
 // Masala 20
+// Console.Write("x1 ni kiriting: ");
+// double x1 = double.Parse(Console.ReadLine());
+// Console.Write("y1 ni kiriting: "); 
+// double y1 = double.Parse(Console.ReadLine());
+        
+// Console.Write("x2 ni kiriting: ");
+// double x2 = double.Parse(Console.ReadLine());
+// Console.Write("y2 ni kiriting: ");
+// double y2 = double.Parse(Console.ReadLine());
 
+       
+// double S = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+        
+// Console.WriteLine($"Ikki nuqta o'rtasidagi masofa: {S}");
 
 
 // Masala 21
 
 
+// Console.Write("x1 ni kiriting: ");
+// double x1 = double.Parse(Console.ReadLine());
+// Console.Write("y1 ni kiriting: "); 
+// double y1 = double.Parse(Console.ReadLine());
+        
+// Console.Write("x2 ni kiriting: ");
+// double x2 = double.Parse(Console.ReadLine());
+// Console.Write("y2 ni kiriting: ");
+// double y2 = double.Parse(Console.ReadLine());
 
+// Console.Write("x3 ni kiriting: ");
+// double x3 = double.Parse(Console.ReadLine());
+// Console.Write("y3 ni kiriting: ");
+// double y3 = double.Parse(Console.ReadLine());
+
+// double a = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+// double b = Math.Sqrt(Math.Pow(x3 - x2, 2) + Math.Pow(y3 - y2, 2));
+// double c = Math.Sqrt(Math.Pow(x3 - x1, 2) + Math.Pow(y3 - y1, 2));
+
+// double p = (a + b + c) / 2;
+
+// double S = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+
+// Console.WriteLine($"Uchburchak yuzasi: {S}");
 // Masala 22
 
+// Console.Write("a ni kiriting: ");
+// double a = double.Parse(Console.ReadLine());
+// Console.Write("b ni kiriting: "); 
+// double b = double.Parse(Console.ReadLine());
+// double c = a;
+// a = b;
+// b = c;
+// Console.WriteLine(a);
+// Console.WriteLine(b);
 
 // Masala 23
 
