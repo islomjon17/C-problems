@@ -203,7 +203,20 @@ using system;
 //   /////////////////////////////////////////////////////
 // Masala 18
 
+// Console.Write("A nuqtani kiriting: ");
+// double A = double.Parse(Console.ReadLine());
+// Console.Write("B nuqtani kiriting: ");
+// double B = double.Parse(Console.ReadLine());
+// Console.Write("C nuqtani kiriting: ");
+// double C = double.Parse(Console.ReadLine());
 
+// double AC = C + A;
+// double BC = C + B;
+// double kopaytma = AC * BC;
+
+// Console.WriteLine("AC = " + AC);
+// Console.WriteLine("BC = " + BC);
+// Console.WriteLine("Ko'paytma = " + kopaytma);
 
 // Masala 19
 
@@ -213,54 +226,14 @@ using system;
 
 // Masala 20
 
-// Console.Write("A nuqtani kiriting: ");
-// double A = double.Parse(Console.ReadLine());
-// Console.Write("B nuqtani kiriting: ");
-// double B = double.Parse(Console.ReadLine());
-// Console.Write("C nuqtani kiriting: ");
-// double C = double.Parse(Console.ReadLine());
 
-// double AC = C - A;
-// double BC = C - B;
-// double yigindi = AC + BC;
-
-// Console.WriteLine("AC = " + AC);
-// Console.WriteLine("BC = " + BC);
-// Console.WriteLine("Yig'indi = " + yigindi);
 
 // Masala 21
-// Console.Write("A nuqtani kiriting: ");
-// double A = double.Parse(Console.ReadLine());
-// Console.Write("B nuqtani kiriting: ");
-// double B = double.Parse(Console.ReadLine());
-// Console.Write("C nuqtani kiriting: ");
-// double C = double.Parse(Console.ReadLine());
 
-// double AC = C - A;
-// double BC = C - B;
-// double yigindi = AC + BC;
-
-// Console.WriteLine("AC = " + AC);
-// Console.WriteLine("BC = " + BC);
-// Console.WriteLine("Yig'indi = " + yigindi);
 
 
 // Masala 22
 
-// Console.Write("A nuqtani kiriting: ");
-// double A = double.Parse(Console.ReadLine());
-// Console.Write("B nuqtani kiriting: ");
-// double B = double.Parse(Console.ReadLine());
-// Console.Write("C nuqtani kiriting: ");
-// double C = double.Parse(Console.ReadLine());
-
-// double AC = C - A;
-// double BC = C - B;
-// double yigindi = AC + BC;
-
-// Console.WriteLine("AC = " + AC);
-// Console.WriteLine("BC = " + BC);
-// Console.WriteLine("Yig'indi = " + yigindi);
 
 // Masala 23
 
