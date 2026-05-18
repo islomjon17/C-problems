@@ -324,15 +324,24 @@ using system;
 
 // Masala 25
 
-Console.Write("x ni kiriting: ");
-double x = double.Parse(Console.ReadLine());
+// Console.Write("x ni kiriting: ");
+// double x = double.Parse(Console.ReadLine());
 
-double y = 3*Math.Pow(x,6) * Math.Pow(x,2)-7;
-Console.WriteLine($"y ning qiymati {y}");
+// double y = 3*Math.Pow(x,6) * Math.Pow(x,2)-7;
+// Console.WriteLine($"y ning qiymati {y}");
 
 // Masala 26
 
 
+
+// Console.Write("x ni kiriting: ");
+// double x = double.Parse(Console.ReadLine());
+
+// double k = x - 3;
+
+// double y = 4 * Math.Pow(k, 6) - 7 * Math.Pow(k, 3) + 2;
+
+// Console.WriteLine($"y ning qiymati: {y}");
 
 // Masala 27
 
