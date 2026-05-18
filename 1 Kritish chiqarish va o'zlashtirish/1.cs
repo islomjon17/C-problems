@@ -219,7 +219,21 @@ using system;
 // Console.WriteLine("Ko'paytma = " + kopaytma);
 
 // Masala 19
+// Console.Write("x1 ni kiriting: ");
+// double x1 = double.Parse(Console.ReadLine());
+// Console.Write("x2 ni kiriting: ");
+// double x2 = double.Parse(Console.ReadLine());
+// Console.Write("y1 ni kiriting: ");
+// double y1 = double.Parse(Console.ReadLine());
+// Console.Write("y2 ni kiriting: ");
+// double y2 = double.Parse(Console.ReadLine());
 
+// double a = Math.Abs(x1-x2);
+// double b = Math.Abs(y1-y2);
+// double P = 2*(a+b);
+// double S = a*b;
+// Console.WriteLine("P= "+P);
+// Console.WriteLine("S= "+S);
 
 // Masala 18
 
