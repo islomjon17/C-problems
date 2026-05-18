@@ -344,8 +344,16 @@ using system;
 // Console.WriteLine($"y ning qiymati: {y}");
 
 // Masala 27
+Console.Write("A ni kiriting: ");
+Console.Write("A ni kiriting: ");
+int A = int.Parse(Console.ReadLine());
+
+int d_2 = (int)Math.Pow(A, 2);
+int d_4 = (int)Math.Pow(A, 4);
+int d_8 = (int)Math.Pow(A, 8);
 
 
+Console.WriteLine($"A^2 = {d_2}, A^4 = {d_4}, A^8 = {d_8}");
 
 // Masala 28
 
