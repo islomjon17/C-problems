@@ -383,15 +383,21 @@ using system;
 
 // Masala 30
 
-// Console.Write("Burchakni radianda kiriting (0-2*pi): ");
-// double alphaRadian = double.Parse(Console.ReadLine());
+Console.Write("Burchakni radianda kiriting (0-2*pi): ");
+double alphaRadian = double.Parse(Console.ReadLine());
 
-// double gradus = alphaRadian * 180 / Math.PI;
+double gradus = alphaRadian * 180 / Math.PI;
 
-// Console.WriteLine($"Gradus qiymati: {gradus:F2}°");
+Console.WriteLine($"Gradus qiymati: {gradus:F2}°");
 
 // Masala 31
 
+Console.Write("Burchakni radianda kiriting (0-2*pi): ");
+double alphaRadian = double.Parse(Console.ReadLine());
+
+double gradus = alphaRadian * 180 / Math.PI;
+
+Console.WriteLine($"Gradus qiymati: {gradus:F2}°");
 
 
 // Masala 32
